@@ -1,0 +1,15 @@
+{
+  "name": "nodejsagency",
+  "version": "1.0.0",
+  "description": "agency nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "ageny"
+  ],
+  "author": "Koray Tuncer",
+  "license": "ISC"
+}
